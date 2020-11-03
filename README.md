@@ -852,3 +852,4 @@ with either the course instructor or a student technical leader during the
 course session. Alternatively, you may ask questions in the Slack workspace for
 this course. Finally, you can schedule a meeting during the course instructor's
 office hours.
+# gatsby-starter-ecommerce
